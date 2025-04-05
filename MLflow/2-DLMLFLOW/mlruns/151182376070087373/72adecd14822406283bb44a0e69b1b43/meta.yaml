@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/72adecd14822406283bb44a0e69b1b43/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: 72adecd14822406283bb44a0e69b1b43
+run_name: defiant-zebra-577
+run_uuid: 72adecd14822406283bb44a0e69b1b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743681656543
+status: 1
+tags: []
+user_id: kuldeep-chamoli

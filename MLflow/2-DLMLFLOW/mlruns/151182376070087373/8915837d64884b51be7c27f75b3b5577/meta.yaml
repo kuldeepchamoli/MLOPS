@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/8915837d64884b51be7c27f75b3b5577/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: 8915837d64884b51be7c27f75b3b5577
+run_name: sincere-asp-412
+run_uuid: 8915837d64884b51be7c27f75b3b5577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743681656093
+status: 1
+tags: []
+user_id: kuldeep-chamoli

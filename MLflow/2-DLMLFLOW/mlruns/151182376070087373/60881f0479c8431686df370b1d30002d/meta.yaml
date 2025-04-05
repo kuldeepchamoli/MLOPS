@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/60881f0479c8431686df370b1d30002d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: 60881f0479c8431686df370b1d30002d
+run_name: thundering-yak-139
+run_uuid: 60881f0479c8431686df370b1d30002d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743680994126
+status: 1
+tags: []
+user_id: kuldeep-chamoli

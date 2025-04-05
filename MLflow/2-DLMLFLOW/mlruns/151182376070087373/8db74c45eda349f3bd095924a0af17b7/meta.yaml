@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/8db74c45eda349f3bd095924a0af17b7/artifacts
+end_time: 1743680994012
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: 8db74c45eda349f3bd095924a0af17b7
+run_name: powerful-cod-660
+run_uuid: 8db74c45eda349f3bd095924a0af17b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743680955728
+status: 3
+tags: []
+user_id: kuldeep-chamoli

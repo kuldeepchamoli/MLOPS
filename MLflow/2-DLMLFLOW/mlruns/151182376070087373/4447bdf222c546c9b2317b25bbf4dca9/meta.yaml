@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/4447bdf222c546c9b2317b25bbf4dca9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: 4447bdf222c546c9b2317b25bbf4dca9
+run_name: learned-seal-843
+run_uuid: 4447bdf222c546c9b2317b25bbf4dca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743680951846
+status: 1
+tags: []
+user_id: kuldeep-chamoli

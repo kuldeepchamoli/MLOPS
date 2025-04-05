@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/fc57f8e99b5c4e4c935ccef95a6e52a0/artifacts
+end_time: 1743681094489
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: fc57f8e99b5c4e4c935ccef95a6e52a0
+run_name: adorable-snake-333
+run_uuid: fc57f8e99b5c4e4c935ccef95a6e52a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743681074160
+status: 3
+tags: []
+user_id: kuldeep-chamoli

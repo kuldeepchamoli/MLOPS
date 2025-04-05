@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuldeep-chamoli/Desktop/Mtech/krish_naik/MLflow/2-DLMLFLOW/mlruns/151182376070087373/cb12e296ded34941861df0566f2d4d78/artifacts
+end_time: 1743680810722
+entry_point_name: ''
+experiment_id: '151182376070087373'
+lifecycle_stage: active
+run_id: cb12e296ded34941861df0566f2d4d78
+run_name: trusting-sponge-978
+run_uuid: cb12e296ded34941861df0566f2d4d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743680810686
+status: 4
+tags: []
+user_id: kuldeep-chamoli
