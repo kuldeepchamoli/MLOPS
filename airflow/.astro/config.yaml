@@ -1,0 +1,5 @@
+project:
+  name: airflow
+
+webserver:
+  port: 8081  # or choose any free port like 9090
