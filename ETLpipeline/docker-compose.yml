@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5434:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - airflow_network
+
+# Declare networks (outside services block)
+networks:
+  airflow_network:
+    external: false  # Use false if you're letting Docker create it
+
+# Declare named volumes (outside services block)
+volumes:
+  postgres_data:
